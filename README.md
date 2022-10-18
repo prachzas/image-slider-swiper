@@ -1,1 +1,1 @@
-# image-slider-swiper
+# Image slider by swiper.js
